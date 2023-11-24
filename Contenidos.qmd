@@ -121,7 +121,6 @@ strip-comments: true
 
  * [Tema 05 - Análisis Exploratorio de Datos](docs/Tema05.qmd)
 
- * [Tema 07 - Fundamentos Estadísticos](docs/Tema07.qmd)
 
 :::
 
@@ -130,11 +129,11 @@ strip-comments: true
 
 ## Semana 9
 (6-Nov. a 10-Nov.)
+ 
+  * [Tema 07 - Fundamentos Estadísticos](docs/Tema07.qmd)
 
- * [Tema 07 - Ejercicio](docs/Tema07ej.qmd)
-
- * [Tema 08 - Aprendizaje Estadístico](docs/Tema08.qmd)  
-
+  * [Tema 07 - Ejercicio](docs/Tema07ej.qmd)
+    * Fecha límite de entrega: **vie., 08-dic., 23:59h**
 
 :::
 
@@ -151,7 +150,10 @@ strip-comments: true
 (13-Nov. a 17-Nov.)
 
   * [Tema 05 - Ejercicio](docs/Tema05ejWebScrap.qmd)
+    * Fecha límite de entrega: **dom., 03-dic., 23:59h**
 
+
+  * [Tema 08 - Aprendizaje Estadístico](docs/Tema08.qmd)  
   
 :::
 
@@ -159,31 +161,21 @@ strip-comments: true
 ::: {.column width="33%"}
 
 
-<!--
 ## Semana 11
-(21-Nov. a 25-Nov.)
+(20-Nov. a 26-Nov.)
 
-  * [Tema 11 - kNN](docs/Tema11.html)
-  * [Tema 13 - `tidymodels`](docs/Tema13.html)
-
--->
+  * [Tema 09 - Selección y Regularización](docs/Tema09.qmd)  
+  * [Tema 11 - kNN](docs/Tema11.qmd)  
+  
 :::
 
 
 ::: {.column width="33%"}
-<!--
 ## Semana 12
-(28-Nov. a 02-Dic.)
+(27-Nov. a 01-Dic.)
 
-  * [Tema 12 - Métodos basados en árboles](docs/Tema12.html)
-
-  * [Tema 13 - Ejercicio](docs/Tema13_Ejerc.html)
-
-    - Entregar [aquí](https://docs.google.com/forms/d/e/1FAIpQLSeDCAi9CtQvZVOk7DiWeZKevOBDO_4uvWrKTbTR5xEaMrtarg/viewform)
-    - Fecha:  dom. 11-Dic. 23:00h  
+  * [Tema 10 - Modelización con `tidymodels`](docs/Tema10.qmd)  
   
--->
-
 :::
 
 ::::
