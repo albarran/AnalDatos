@@ -60,6 +60,7 @@ strip-comments: true
 (21-Oct. a 27-Oct.)
 
   * [Tema 03 - Ejercicio](docs/Tema03ej.qmd)
+  * [Tema 05 - Análisis Exploratorio de Datos](docs/Tema05.qmd)
 
 ## Semana 6
 (14-Oct. a 20-Oct.)
