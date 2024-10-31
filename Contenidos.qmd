@@ -56,7 +56,7 @@ strip-comments: true
 ## Semana 8
 (28-Oct. a 03-Nov.)
 
-  * [Tema 05 - Ejercicio](docs/Tema05ej.qmd)
+  * [Tema 05 - Ejercicio](docs/Tema05ej1.qmd)
 
 ## Semana 7
 (21-Oct. a 27-Oct.)
