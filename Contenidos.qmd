@@ -35,7 +35,7 @@ strip-comments: true
 (02-Dic. a 08-Dic.)
 
   * [Tema 08 - Ejercicio 2](docs/Tema08ej2.qmd)
-    - Fecha límite de entrega: **mie., 18-dic., 23:59h**
+    - Fecha límite de entrega: **jue., 19-dic., 23:59h**
 
   * [Tema 09 - Métodos basados en árboles](docs/Tema09.qmd)
 
