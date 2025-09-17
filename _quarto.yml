@@ -1,11 +1,11 @@
 project:
   type: website
-  resources: data
+  #resources: data
+  resources:
+    - "docs/*.R"
+    - "data/*.*"
 
 website:
-  title:  "Análisis de Datos (UA)"
-  # "Muestreo y Análisis de Datos (UA)"
-
   navbar:
     left:
       #      - href: index.qmd
