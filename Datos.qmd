@@ -19,17 +19,16 @@ strip-comments: true
 
 	+ [datosVisualizacion.RData](https://raw.githubusercontent.com/albarran/00datos/main/datosVisualizacion.RData)
 
-<!--
 
 * Tema 2:
 
+  + [retail_data](https://raw.githubusercontent.com/albarran/00datos/main/retail_data.RData)
+
   + [VentasTabla](https://raw.githubusercontent.com/albarran/00datos/main/VentasTabla.xlsx)
   + [Empleados](https://raw.githubusercontent.com/albarran/00datos/main/empleados.csv.zip)
-
-* Tema 3:
-
   + [DosTablas](https://raw.githubusercontent.com/albarran/00datos/main/DosTablas.xlsx)
 
+<!--
 * Tema 5:
 
   + [BankMarketing.csv](https://raw.githubusercontent.com/albarran/00datos/main/BankMarketing.csv)
