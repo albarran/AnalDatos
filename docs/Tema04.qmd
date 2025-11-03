@@ -121,7 +121,7 @@ source("Tema04datos.R")
 
 # Primera Aproximación
 
-## Contexto y reconomicimiento de los datos
+## Contexto y reconocimiento de los datos
 
 ::: {style="font-size: 95%;"}
 - Contexto: conocimiento previo de los datos (fuente, cómo están almacenados, etc.)
